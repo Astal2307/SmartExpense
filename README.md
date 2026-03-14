@@ -140,4 +140,6 @@ docker run -p 8000:8000 ^
 
 Это гарантирует, что API работает даже без предварительного обучения.
 
+---
+
 **Стек**: `FastAPI` `PostgreSQL` `SQLAlchemy` `Scikit-learn` `Docker`
